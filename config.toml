@@ -1,0 +1,5 @@
+baseURL = "http://www.baroobob.org/"
+languageCode = "en-us"
+title = "My New Website"
+theme = "ananke"
+relativeurls = true

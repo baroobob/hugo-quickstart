@@ -1,4 +1,5 @@
-baseURL = "http://www.baroobob.org/"
+#baseURL = "http://www.baroobob.org/"
+baseURL = "https://stoic-feynman-dcbc8b.netlify.com/"
 languageCode = "en-us"
 title = "My New Website"
 theme = "ananke"
